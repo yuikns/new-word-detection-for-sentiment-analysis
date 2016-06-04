@@ -1,0 +1,7 @@
+[submodule "lib/argcv"]
+	path = lib/argcv
+	url = git@github.com:yuikns/argcv.git
+	branch = master
+[submodule "data/lexicon"]
+	path = data/lexicon
+	url = git@github.com:ling0322/webdict.git
